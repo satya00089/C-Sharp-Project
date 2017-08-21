@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIRTHDAYWISHER_APP", "BIRTHDAYWISHER_APP\BIRTHDAYWISHER_APP.csproj", "{D7630D5C-1FD2-453D-941F-003A6F630E08}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BirthDay Wisher - Installer", "BirthDay Wisher - Installer\BirthDay Wisher - Installer.vdproj", "{590CBFA3-C302-46C2-8DB4-518F4094322D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7630D5C-1FD2-453D-941F-003A6F630E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7630D5C-1FD2-453D-941F-003A6F630E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7630D5C-1FD2-453D-941F-003A6F630E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7630D5C-1FD2-453D-941F-003A6F630E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590CBFA3-C302-46C2-8DB4-518F4094322D}.Debug|Any CPU.ActiveCfg = Debug
+		{590CBFA3-C302-46C2-8DB4-518F4094322D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
